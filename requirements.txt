@@ -1,0 +1,8 @@
+jupyter
+notebook
+matplotlib
+numpy
+scipy
+packaging
+sparsegrad
+ipywidgets
