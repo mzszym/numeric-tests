@@ -1,7 +1,7 @@
 Collection of numeric notebooks
 ===============================
 
-.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/mzszym/numeric-tests.git/master
+|Binder-badge|
 
 Installing nonstandard requirements
 ----------------------------------
@@ -16,3 +16,5 @@ Running
 
 `.ipynb` files are runnable in Jupyter Notebook.
 
+.. |Binder-badge| image:: https://mybinder.org/badge.svg
+   :target: https://mybinder.org/v2/gh/mzszym/numeric-tests.git/master
